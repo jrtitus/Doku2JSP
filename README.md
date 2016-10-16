@@ -1,2 +1,2 @@
-# Doku2JSP
+# WikiTransformer
 DokuWiki - to - JSPWiki markup converter
